@@ -19,5 +19,3 @@ Este proyecto es un bot de WhatsApp simple que responde a los mensajes utilizand
 ## Levantar servicios
 - Se debe levantar nuestro servidor `app.py` donde configuraremos las respuestas automaticas y ejecutaremos la aplicación `ngrok` para exponerlo.
 - Configuraremos el webhook en `Twilio` para que apunte a la URL pública proporcionada por `ngrok`.
-
-
